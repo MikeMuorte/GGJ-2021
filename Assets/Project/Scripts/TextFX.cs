@@ -30,39 +30,42 @@ public class TextFX : MonoBehaviour
             return;
         if (clearText.IsActive() || newText.IsActive())
         {
-            Debug.Log("Still Active");
+            Debug.Log("Sequence Still Active!");
             return;
         }
 
+        ClearStringAnimation(newString);
+
+    }
+
+    public void ClearStringAnimation(string newString)
+    {
         clearText = DOTween.Sequence();
 
-        //Debug.Log("string " + textMesh.textInfo.characterCount + " DOstring " + textAnim.textInfo.characterCount);
         float outSpeed = 0.5f;
         for (int i = 0; i < textAnim.textInfo.characterCount; i++)
         {
             if (!textAnim.textInfo.characterInfo[i].isVisible) continue;
             Vector3 r = new Vector3((Random.value > 0.5 ? 1 : -1) * Random.Range(1.0f, 3.0f),
-                                    (Random.value > 0.5 ? 1 : -1) * Random.Range(0.0f, 1.0f), 
+                                    (Random.value > 0.5 ? 1 : -1) * Random.Range(0.0f, 1.0f),
                                     0);
             clearText.Join(textAnim.DOFadeChar(i, 0, outSpeed).From(1));
             clearText.Join(textAnim.DOOffsetChar(i, r, outSpeed));
         }
 
         clearText.AppendInterval(0.5f);
-        clearText.AppendCallback(() => 
-        { 
+        clearText.AppendCallback(() =>
+        {
             textMesh.text = newString;
             textAnim.Refresh();
             InputStringAnimation();
         });
-
     }
 
     public void InputStringAnimation()
     {
         newText = DOTween.Sequence();
 
-        //Debug.Log("string " + textMesh.textInfo.characterCount + " DOstring " + textAnim.textInfo.characterCount);
         float inSpeed =1;
         for (int i = 0; i < textAnim.textInfo.characterCount; i++)
         {
