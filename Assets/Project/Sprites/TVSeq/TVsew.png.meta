@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: f8349cb32634bde43a3372eb1905aa9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9152055458684978293
+    second: TVsew_0
+  - first:
+      213: -2858675248998080096
+    second: TVsew_1
+  - first:
+      213: -8454050513771837829
+    second: TVsew_2
+  - first:
+      213: 1735017390533997994
+    second: TVsew_3
+  - first:
+      213: -5312794501724201322
+    second: TVsew_4
+  - first:
+      213: -1714494674830801194
+    second: TVsew_5
+  - first:
+      213: 7415889487601516883
+    second: TVsew_6
+  - first:
+      213: -7019679854643833554
+    second: TVsew_7
+  - first:
+      213: 8391277115695181041
+    second: TVsew_8
+  - first:
+      213: 4754339182179987231
+    second: TVsew_9
+  - first:
+      213: -5170843842629555704
+    second: TVsew_10
+  - first:
+      213: 2866330243714101545
+    second: TVsew_11
+  - first:
+      213: 798279255003284597
+    second: TVsew_12
+  - first:
+      213: 1245845125235772828
+    second: TVsew_13
+  - first:
+      213: 8631441019392799657
+    second: TVsew_14
+  - first:
+      213: 5955393393041734196
+    second: TVsew_15
+  - first:
+      213: -2849491600627497322
+    second: TVsew_16
+  - first:
+      213: -7269926355786986477
+    second: TVsew_17
+  - first:
+      213: -6627309493811248570
+    second: TVsew_18
+  - first:
+      213: -7447640998425722724
+    second: TVsew_19
+  - first:
+      213: -6347752594594471929
+    second: TVsew_20
+  - first:
+      213: -5999632448675566958
+    second: TVsew_21
+  - first:
+      213: -900246021043274524
+    second: TVsew_22
+  - first:
+      213: 6761284382550433997
+    second: TVsew_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TVsew_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 978.6666
+        width: 498
+        height: 489.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b386ccc0e5df080800000000000000
+      internalID: -9152055458684978293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVsew_1
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 978.6666
+        width: 498
+        height: 489.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1a447c102f358d0800000000000000
+      internalID: -2858675248998080096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVsew_2
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 978.6666
+        width: 498
+        height: 489.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76cb6569dd2daa80800000000000000
+      internalID: -8454050513771837829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVsew_3
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 978.6666
+        width: 498
+        height: 489.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa577e9cf15041810800000000000000
+      internalID: 1735017390533997994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVsew_4
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 978.6666
+        width: 498
+        height: 489.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e94109c892546b0800000000000000
+      internalID: -5312794501724201322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVsew_5
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 978.6666
+        width: 498
+        height: 489.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d649615d24e438e0800000000000000
+      internalID: -1714494674830801194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVsew_6
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 978.6666
+        width: 498
+        height: 489.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351ca0aa2388ae660800000000000000
+      internalID: 7415889487601516883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVsew_7
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 978.6666
+        width: 498
+        height: 489.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e251df23d56159e90800000000000000
+      internalID: -7019679854643833554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVsew_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 489.66666
+        width: 498
+        height: 489.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc20ece31ec37470800000000000000
+      internalID: 8391277115695181041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVsew_9
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 489.66666
+        width: 498
+        height: 489.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f2f8feb4ecaf140800000000000000
+      internalID: 4754339182179987231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVsew_10
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 489.66666
+        width: 498
+        height: 489.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80aac03ebe87d38b0800000000000000
+      internalID: -5170843842629555704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVsew_11
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 489.66666
+        width: 498
+        height: 489.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921b9819b2047c720800000000000000
+      internalID: 2866330243714101545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVsew_12
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 489.66666
+        width: 498
+        height: 489.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574c802c0ce041b00800000000000000
+      internalID: 798279255003284597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVsew_13
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 489.66666
+        width: 498
+        height: 489.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d84d66a812a4110800000000000000
+      internalID: 1245845125235772828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVsew_14
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 489.66666
+        width: 498
+        height: 489.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3b4a430e909c770800000000000000
+      internalID: 8631441019392799657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVsew_15
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 489.66666
+        width: 498
+        height: 489.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43af5f9ecbec5a250800000000000000
+      internalID: 5955393393041734196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVsew_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.6666565
+        width: 498
+        height: 489.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696832a8c729478d0800000000000000
+      internalID: -2849491600627497322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVsew_17
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 0.6666565
+        width: 498
+        height: 489.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c01144f780c1b90800000000000000
+      internalID: -7269926355786986477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVsew_18
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0.6666565
+        width: 498
+        height: 489.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6428eccd0211704a0800000000000000
+      internalID: -6627309493811248570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVsew_19
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 0.6666565
+        width: 498
+        height: 489.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c900332a8f9a4a890800000000000000
+      internalID: -7447640998425722724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVsew_20
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 0.6666565
+        width: 498
+        height: 489.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700e125a5a048e7a0800000000000000
+      internalID: -6347752594594471929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVsew_21
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 0.6666565
+        width: 498
+        height: 489.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a29c943160dbca0800000000000000
+      internalID: -5999632448675566958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVsew_22
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 0.6666565
+        width: 498
+        height: 489.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecb149730fa183f0800000000000000
+      internalID: -900246021043274524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVsew_23
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 0.6666565
+        width: 498
+        height: 489.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0a057b258e4dd50800000000000000
+      internalID: 6761284382550433997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2536036143580177991}
   - component: {fileID: 2536036143580177990}
   - component: {fileID: 2536036143580177989}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Audio Area Element
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42,12 +42,13 @@ AudioSource:
   m_GameObject: {fileID: 2536036143580177988}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: -5936388079931403016, guid: 812b5286cee6a7d43a8f2be0f889dafd,
+    type: 2}
   m_audioClip: {fileID: 8300000, guid: 558dd6fc5f141fc409b4ac8343403adb, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -158,5 +159,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   smoothVolume: 2
-  audioSource: {fileID: 2536036143580177991}
+  audioMixer: {fileID: 24100000, guid: 812b5286cee6a7d43a8f2be0f889dafd, type: 2}
   circleCollider: {fileID: 2536036143580177990}
