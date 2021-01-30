@@ -45,7 +45,7 @@ public class PlayerController : MonoBehaviour
         float x = 0;
 
         // Player Inputs
-        if (!disablePlayerInputs)
+        if (!isPaused)
         {
             x = Input.GetAxis("Horizontal");
             transform.Translate(Vector2.right * x * walkSpeed * Time.deltaTime);
