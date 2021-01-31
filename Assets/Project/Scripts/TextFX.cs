@@ -6,6 +6,9 @@ using DG.Tweening;
 [RequireComponent(typeof(TextMeshProUGUI))]
 public class TextFX : MonoBehaviour
 {
+    public float outSpeed = 1;
+    public float inSpeed = 2;
+
     Sequence clearText;
     Sequence newText;
     
@@ -40,7 +43,6 @@ public class TextFX : MonoBehaviour
     {
         clearText = DOTween.Sequence();
 
-        float outSpeed = 1;
         for (int i = 0; i < textAnim.textInfo.characterCount; i++)
         {
             if (!textAnim.textInfo.characterInfo[i].isVisible) continue;
@@ -68,7 +70,6 @@ public class TextFX : MonoBehaviour
     {
         newText = DOTween.Sequence();
 
-        float inSpeed = 2;
         for (int i = 0; i < textAnim.textInfo.characterCount; i++)
         {
             if (!textAnim.textInfo.characterInfo[i].isVisible) continue;
@@ -77,7 +78,9 @@ public class TextFX : MonoBehaviour
                                     0);
             r *= textAnim.textInfo.characterInfo[i].pointSize * 0.5f;
             newText.Join(textAnim.DOFadeChar(i, 1, inSpeed).From(0));
-            newText.Join(textAnim.DOOffsetChar(i, r, inSpeed).From());
+            
+            //newText.Join(textAnim.DOFadeChar(i, 1, inSpeed).From(0));
+            //newText.Join(textAnim.DOOffsetChar(i, r, inSpeed).From());
         }
     }
 }
