@@ -1253,6 +1253,7 @@ RectTransform:
   m_Children:
   - {fileID: 1687156530}
   - {fileID: 478269966}
+  - {fileID: 326160413}
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2055,6 +2056,143 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &326160412
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 35441389}
+    m_Modifications:
+    - target: {fileID: 893452439925150960, guid: 19975faad515985489b0b66c5039d0bc,
+        type: 3}
+      propertyPath: m_Name
+      value: AudioMixer Progressor
+      objectReference: {fileID: 0}
+    - target: {fileID: 893452439925150967, guid: 19975faad515985489b0b66c5039d0bc,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 893452439925150967, guid: 19975faad515985489b0b66c5039d0bc,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 893452439925150967, guid: 19975faad515985489b0b66c5039d0bc,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 893452439925150967, guid: 19975faad515985489b0b66c5039d0bc,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 893452439925150967, guid: 19975faad515985489b0b66c5039d0bc,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 893452439925150967, guid: 19975faad515985489b0b66c5039d0bc,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 893452439925150967, guid: 19975faad515985489b0b66c5039d0bc,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 893452439925150967, guid: 19975faad515985489b0b66c5039d0bc,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 893452439925150967, guid: 19975faad515985489b0b66c5039d0bc,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 893452439925150967, guid: 19975faad515985489b0b66c5039d0bc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 893452439925150967, guid: 19975faad515985489b0b66c5039d0bc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 893452439925150967, guid: 19975faad515985489b0b66c5039d0bc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 893452439925150967, guid: 19975faad515985489b0b66c5039d0bc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 893452439925150967, guid: 19975faad515985489b0b66c5039d0bc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 893452439925150967, guid: 19975faad515985489b0b66c5039d0bc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 893452439925150967, guid: 19975faad515985489b0b66c5039d0bc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 893452439925150967, guid: 19975faad515985489b0b66c5039d0bc,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 893452439925150967, guid: 19975faad515985489b0b66c5039d0bc,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 893452439925150967, guid: 19975faad515985489b0b66c5039d0bc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 893452439925150967, guid: 19975faad515985489b0b66c5039d0bc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 893452439925150967, guid: 19975faad515985489b0b66c5039d0bc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 19975faad515985489b0b66c5039d0bc, type: 3}
+--- !u!224 &326160413 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 893452439925150967, guid: 19975faad515985489b0b66c5039d0bc,
+    type: 3}
+  m_PrefabInstance: {fileID: 326160412}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &326160414 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 893452439925150965, guid: 19975faad515985489b0b66c5039d0bc,
+    type: 3}
+  m_PrefabInstance: {fileID: 326160412}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dd4fcd1a439fed4084f8b519848b636, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!61 &342372874 stripped
 BoxCollider2D:
   m_CorrespondingSourceObject: {fileID: 2133915804622912929, guid: 9612af5f857273f45a72c4ece6d50c92,
@@ -2675,7 +2813,7 @@ MonoBehaviour:
         OutputAudioMixerGroup: {fileID: 0}
     PresetCategory: Uncategorized
     PresetName: Default
-  HideProgressor: {fileID: 0}
+  HideProgressor: {fileID: 326160414}
   LoopBehavior:
     Animation:
       AnimationType: 3
@@ -2952,7 +3090,7 @@ MonoBehaviour:
     PresetName: Default
   ShowProgressor: {fileID: 0}
   TargetOrientation: 2
-  UpdateHideProgressorOnShow: 0
+  UpdateHideProgressorOnShow: 1
   UpdateShowProgressorOnHide: 0
   UseCustomStartAnchoredPosition: 1
   ViewCategory: General
