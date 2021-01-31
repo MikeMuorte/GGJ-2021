@@ -36,37 +36,29 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  CurrentGraph: {fileID: 11400000, guid: 52848f57862fa9e4c9eae5e6507b634a, type: 2}
+  CurrentGraph: {fileID: 11400000, guid: d8a54666d0421764f9e391e2c900355d, type: 2}
   RecentlyOpenedGraphs:
+  - {fileID: 11400000, guid: d8a54666d0421764f9e391e2c900355d, type: 2}
   - {fileID: 11400000, guid: 52848f57862fa9e4c9eae5e6507b634a, type: 2}
   - {fileID: 11400000, guid: 89dd61c4d36567d468db71271d6e3a16, type: 2}
-  - {fileID: 11400000, guid: d8a54666d0421764f9e391e2c900355d, type: 2}
   CopiedNodes: []
-  DeletedNodes:
-  - {fileID: 1804239379367035707, guid: 52848f57862fa9e4c9eae5e6507b634a, type: 2}
-  - {fileID: -3051504107227948638, guid: 52848f57862fa9e4c9eae5e6507b634a, type: 2}
-  - {fileID: 8044250785785671782, guid: 52848f57862fa9e4c9eae5e6507b634a, type: 2}
-  - {fileID: 6261813190568234026, guid: 52848f57862fa9e4c9eae5e6507b634a, type: 2}
-  - {fileID: -3346867328000342867, guid: 52848f57862fa9e4c9eae5e6507b634a, type: 2}
-  - {fileID: -668431013015563738, guid: 52848f57862fa9e4c9eae5e6507b634a, type: 2}
-  - {fileID: 3206453373543000367, guid: 52848f57862fa9e4c9eae5e6507b634a, type: 2}
-  SelectedNodes:
-  - {fileID: -5821267165300570253, guid: 52848f57862fa9e4c9eae5e6507b634a, type: 2}
+  DeletedNodes: []
+  SelectedNodes: []
   GraphTabs:
   - IsRootTab: 1
-    Graph: {fileID: 11400000, guid: 52848f57862fa9e4c9eae5e6507b634a, type: 2}
+    Graph: {fileID: 11400000, guid: d8a54666d0421764f9e391e2c900355d, type: 2}
     SubGraphNode: {fileID: 0}
     Zoom: 0.6
-    PanOffset: {x: 448.50003, y: 300.6}
+    PanOffset: {x: 315.09998, y: 193.8}
     SelectedNodes: []
     DeletedNodes: []
   CurrentView: 1
-  CurrentPanOffset: {x: 224.84978, y: 248.79926}
+  CurrentPanOffset: {x: 97.56303, y: -2.6382496}
   DefaultPanOffset: {x: 0, y: 0}
   IsDirty: 0
   SaveCurrentGraphWithControlS: 1
   CurrentDotAnimationSpeed: 0.6
-  CurrentZoom: 0.6
+  CurrentZoom: 0.8
   DefaultDotAnimationSpeed: 0.6
   DefaultZoom: 1
   ShowNodeNotes: 1

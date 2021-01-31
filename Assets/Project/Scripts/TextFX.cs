@@ -28,7 +28,7 @@ public class TextFX : MonoBehaviour
     }
 
     public void AnimateNewText(string newString)
-    {        
+    {
         if (clearText.IsActive() || newText.IsActive())
         {
             Debug.Log("Sequence Still Active!");
@@ -36,10 +36,9 @@ public class TextFX : MonoBehaviour
         }
 
         ClearStringAnimation(newString);
-
     }
 
-    public void ClearStringAnimation(string newString)
+    void ClearStringAnimation(string newString)
     {
         clearText = DOTween.Sequence();
 
@@ -66,7 +65,7 @@ public class TextFX : MonoBehaviour
         });
     }
 
-    public void InputStringAnimation()
+    void InputStringAnimation()
     {
         newText = DOTween.Sequence();
 
