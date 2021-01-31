@@ -1,7 +1,7 @@
 {
 "companyName": "Future Foundation",
 "productName": "Remember Myself",
-"productVersion": "0.1",
+"productVersion": "0.2",
 "dataUrl": "RememberMyself _Web.data.unityweb",
 "wasmCodeUrl": "RememberMyself _Web.wasm.code.unityweb",
 "wasmFrameworkUrl": "RememberMyself _Web.wasm.framework.unityweb",
