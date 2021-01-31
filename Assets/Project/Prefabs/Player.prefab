@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 7767786635500481375}
   - component: {fileID: 7064062272669697412}
   - component: {fileID: 6738903445594217753}
+  - component: {fileID: 5936686090925744977}
   m_Layer: 2
   m_Name: Player
   m_TagString: Player
@@ -187,6 +188,17 @@ MonoBehaviour:
         m_CallState: 2
   GameEvent: UnPause
   ListenForAllGameEvents: 0
+--- !u!210 &5936686090925744977
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7767786635500481377}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 9
 --- !u!1 &7767786636149820398
 GameObject:
   m_ObjectHideFlags: 0
