@@ -392,10 +392,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "<size=100><u>Credits</u></size><size=40><br><br><br><br>Alina Sidorova<br><br><br>Ana
-    Laura \"Kat Reginleif\" Hernandez Densmore<br><br><br>Carlos \"Trooper\" Miranda
-    Diaz<br><br><br>Miguel Mu\xF1oz Ortega Terrazas<br><br><br>Ramon Zambrano Padilla<br><br><br>Rodrigo
-    Gardea Monjaraz</size>"
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b0939660d0b00d04ea343934c1aee841, type: 2}
   m_sharedMaterial: {fileID: 6652923503227941940, guid: b0939660d0b00d04ea343934c1aee841,
